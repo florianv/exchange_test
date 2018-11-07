@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of Exchanger.
+ * This file is part of Exchanger
  *
  * (c) Florian Voutzinos <florian@voutzinos.com>
  *
